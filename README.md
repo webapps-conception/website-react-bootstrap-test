@@ -14,5 +14,6 @@ yarn start
 ```
 
 # Note
-/!\ Ne pas mettre ce code en production, car il s'agit simplement d'un test de fonctionnement pour savoir comment s'imbrique les différents objets react-bootstrap entre eux.
-Egalement, ce site n'étant pas statique, il n'est pas du tout exploitable par les moteurs de recherche.
+:exclamation: Ne pas mettre ce code en production, car il s'agit simplement d'un test de fonctionnement pour savoir comment s'imbrique les différents objets react-bootstrap entre eux.
+
+De plus, ce site n'étant pas statique, il n'est pas du tout exploitable par les moteurs de recherche.
